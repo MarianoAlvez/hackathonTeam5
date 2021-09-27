@@ -1,5 +1,5 @@
 import routerx from 'express-promise-router';
-import bootcampController from '../controllers/BootcampController';
+import bootcampController from '../controllers/bootcampController';
 
 const router=routerx();
 
